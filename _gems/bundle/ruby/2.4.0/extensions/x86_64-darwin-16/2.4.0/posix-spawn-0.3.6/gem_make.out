@@ -1,0 +1,25 @@
+current directory: /prods/pages/gnoopy.github.io/_gems/bundle/ruby/2.4.0/gems/posix-spawn-0.3.6/ext
+/Users/king/.rvm/rubies/ruby-2.4.2/bin/ruby -r ./siteconf20180303-31814-1gh01sy.rb extconf.rb
+creating Makefile
+
+current directory: /prods/pages/gnoopy.github.io/_gems/bundle/ruby/2.4.0/gems/posix-spawn-0.3.6/ext
+make "DESTDIR=" clean
+
+current directory: /prods/pages/gnoopy.github.io/_gems/bundle/ruby/2.4.0/gems/posix-spawn-0.3.6/ext
+make "DESTDIR="
+compiling posix-spawn.c
+In file included from posix-spawn.c:14:
+In file included from /Users/king/.rvm/rubies/ruby-2.4.2/include/ruby-2.4.0/ruby.h:33:
+In file included from /Users/king/.rvm/rubies/ruby-2.4.2/include/ruby-2.4.0/ruby/ruby.h:24:
+/Users/king/.rvm/rubies/ruby-2.4.2/include/ruby-2.4.0/x86_64-darwin16/ruby/config.h:17:9: warning: '_GNU_SOURCE' macro redefined [-Wmacro-redefined]
+#define _GNU_SOURCE 1
+        ^
+posix-spawn.c:3:9: note: previous definition is here
+#define _GNU_SOURCE
+        ^
+1 warning generated.
+linking shared-object posix_spawn_ext.bundle
+
+current directory: /prods/pages/gnoopy.github.io/_gems/bundle/ruby/2.4.0/gems/posix-spawn-0.3.6/ext
+make "DESTDIR=" install
+/usr/local/opt/coreutils/bin/ginstall -c -m 0755 posix_spawn_ext.bundle ./.gem.20180303-31814-1i6k2j2
