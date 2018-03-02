@@ -1,0 +1,16 @@
+current directory: /prods/pages/gnoopy.github.io/_gems/bundle/ruby/2.4.0/gems/eventmachine-1.2.5/ext/fastfilereader
+/Users/king/.rvm/rubies/ruby-2.4.2/bin/ruby -r ./siteconf20180303-32879-oqa0wo.rb extconf.rb
+creating Makefile
+
+current directory: /prods/pages/gnoopy.github.io/_gems/bundle/ruby/2.4.0/gems/eventmachine-1.2.5/ext/fastfilereader
+make "DESTDIR=" clean
+
+current directory: /prods/pages/gnoopy.github.io/_gems/bundle/ruby/2.4.0/gems/eventmachine-1.2.5/ext/fastfilereader
+make "DESTDIR="
+compiling mapper.cpp
+compiling rubymain.cpp
+linking shared-object fastfilereaderext.bundle
+
+current directory: /prods/pages/gnoopy.github.io/_gems/bundle/ruby/2.4.0/gems/eventmachine-1.2.5/ext/fastfilereader
+make "DESTDIR=" install
+/usr/local/opt/coreutils/bin/ginstall -c -m 0755 fastfilereaderext.bundle ./.gem.20180303-32879-1aes62n
