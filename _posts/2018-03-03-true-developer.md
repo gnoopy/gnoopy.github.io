@@ -3,7 +3,7 @@ title: True Developer
 layout: post_page
 ---
 
-<img src="../../../../img/waiting.jpg" width="200px">
+<img src="../../../../img/waiting.jpg" width="200px"> 
 
 20년 가까이 새로운 것을 만드는 일에 종사해왔다. java application 개발자로 시작해서 server engineer로 일하다가 급기야 pilot service 를 만들기 위해 시장 동향부터 개발 환경까지 조사하여 짧은 시간에 개발을 완료해야 하는 일들도 일부 경험했다.  
  이러는 동안 PC용 프로그램, 임베드 소프트웨어, 모바일 앱, 서버프로그램, 스크립트등  필요할 때마다 새로 배워서 닥치는 대로 개발을 했던 것 같다. 아마 내 코드는 이미 대형 개발 조직에서 보기엔 형편없는 모양일 것이라는 생각에 가끔 한숨이 나온다.

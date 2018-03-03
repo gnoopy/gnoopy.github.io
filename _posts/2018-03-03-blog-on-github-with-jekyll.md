@@ -1,12 +1,16 @@
 ---
 title: Blog on github with Jekyll
+layout: post_page
 ---
 
 There might be someone who want simpler blog than Wordpress. This is what you are experiencing the neat blog. You can host your blog on pages.github.com with Jekyll.  To use this platform, you must be a devloper who is familiar with git, web service, markdown and ruby.  It seems that github pages with Jekyll is not convenient and it is true because you have to manage install jekyll, theme, upload contents to github by using git command. The main reason I decided to go with Jekyll is the freedom from  monthly expense to activate SEO on my blog.
 
 If you check the price policy of wordpress, you will notice that it takes USD 25 per month for SEO tool. If you are a developer you might be able to save this and handle it easily.
 
+
+
 <img src="../../../../img/wordpress-price.png" width="600px" />
+
 
 
 My recent vacant experiece in development and engineering field made me feel timidity to play aroud with Jekyll so that it took two days to have full understand on it.
