@@ -1,5 +1,5 @@
 ---
-title: Change wifi IP address with one command
+title: Change Network Location with one command
 layout: post_page
 ---
 
