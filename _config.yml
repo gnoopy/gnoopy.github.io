@@ -9,3 +9,5 @@ plugins:
   - jekyll-feed
   - jekyll-admin
   - jekyll-paginate
+  - jekyll-seo-tag
+

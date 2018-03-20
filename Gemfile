@@ -7,3 +7,5 @@ gem 'jekyll-paginate'
 gem 'jekyll-admin'
 
 gem 'jekyll-feed'
+gem 'jekyll-seo-tag'
+
